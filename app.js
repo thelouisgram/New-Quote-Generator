@@ -11,7 +11,7 @@ const quotes = [
         quote : '"The way to get started is to quit talking and begin doing."' ,
         person : 'Walt Disney'
     }, {
-        quote : '"Your time is limited, so don\'t waste it living someone else\'s life. Don\'t be trapped by dogma - which is living with the results of other people\'s thinking."',
+        quote : '"Your time is limited, so don\'t waste it living someone else\'s life. Don\'t be trapped by dogma."',
         person : 'Steve Jobs'
     }, {
         quote : '"If life were predictable it would cease to be life, and be without flavor."',
