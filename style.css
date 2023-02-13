@@ -12,6 +12,7 @@ body{
     justify-content: center;
     align-items: center;
     height: 100vh;
+    padding: 50px;
     text-align: center;
     background: url('bg.jpg') no-repeat center center/cover;
 }
