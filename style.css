@@ -10,6 +10,7 @@
 body{
     min-height: 100vh;
     background-color: #e0e0e0;
+    background: url(wave-haikei.svg) no-repeat center center/cover;
 }
 
 .header{
@@ -30,7 +31,6 @@ body{
     color: white;
     margin-top: 20px;
     text-align: center;
-    color: black;
     margin-bottom: 40px;
     font-weight: 500;
 }
@@ -80,7 +80,9 @@ body{
 
 
 @media  (max-width : 450px){
-
+    body{
+        background: url(wave-haikei\ \(1\).svg) no-repeat center center/cover;
+}
 
 .main-content{
     margin: auto;
