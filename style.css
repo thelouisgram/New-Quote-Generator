@@ -9,8 +9,8 @@
 
 body{
     min-height: 100vh;
-    background-color: #e0e0e0;
-    background: url(wave-haikei.svg) no-repeat center center/cover;
+    background-color: #002233;
+    
 }
 
 .header{
@@ -24,7 +24,7 @@ body{
 
 .main-heading{
     color: black;
-    font-size: 20px;
+    font-size: 1.2rem;
 }
 
 .author{
@@ -80,10 +80,6 @@ body{
 
 
 @media  (max-width : 450px){
-    body{
-        background: url(wave-haikei\ \(1\).svg) no-repeat center center/cover;
-}
-
 .main-content{
     margin: auto;
     width: 350px;
